@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="Name">name</string>
+    <string name="Name1">Name</string>
+    <string name="signup">SIGN UP</string>
+    <string name="Email">Email</string>
+    <string name="Telephone">Telephone</string>
+    <string name="Password">Password</string>
+    <string name="retype">Re-type Password</string>
+    <string name="Register">Register</string>
+    <string name="Cancel">Cancel</string>
+    <string name="channel_name">ch1</string>
+    <string name="channel_description">des1</string>
+</resources>
